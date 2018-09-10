@@ -7,5 +7,6 @@ subsets yourself.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CompLogicEss/SetsSubsets/master?filepath=SetsSubsets.ipynb)
 
-Alternatively you can click on the filename above and read the
-file with all the code run already.
+Alternatively you can click on the filename above (SetsSubsets.ipynb) and read
+the file with all the code run already. Note that viewing in GitHub will not
+show the "not subset" symbols correctly.
